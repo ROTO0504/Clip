@@ -1,7 +1,7 @@
-#Flutter製リプレイアプリ
+# Flutter製リプレイアプリ
 
 
-##📷ScreenShot(未完成)
+## 📷ScreenShot(未完成)
 
 起動画面
 ![起動画面](https://user-images.githubusercontent.com/88580483/180596733-0d72a848-fe2c-4104-9112-3d20e7f82eb5.png)
